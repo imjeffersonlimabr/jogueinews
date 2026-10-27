@@ -1,0 +1,137 @@
+[
+ {
+  "saida": "posts/2026-10-27/01.png",
+  "modelo": "duplo",
+  "titulo": "Moraes manda Flávio Bolsonaro entregar passaportes e o proíbe de deixar o país",
+  "fotos": [
+   "posts/2026-10-27/fotos/moraes.jpg",
+   "posts/2026-10-27/fotos/pl.jpg"
+  ],
+  "legenda": "O ministro do STF Alexandre de Moraes determinou nesta segunda-feira (26) que o senador Flávio Bolsonaro (PL) entregue seus passaportes à Polícia Federal e não saia do país.\n\n🔹 A decisão corre em segredo de justiça e foi divulgada pelo próprio senador nas redes sociais.\n🔹 A ordem integra um processo no STF em que Flávio e o advogado Willer Tomaz são investigados. Flávio contesta a medida e questiona se ela se justifica.\n\nFonte: Agência Brasil\n📷 Fotos: Joédson Alves/Agência Brasil e Marcello Casal Jr/Agência Brasil\n\n#JogueiNews #STF #Política #Brasil",
+  "alt": "À esquerda, Flávio Bolsonaro fala à imprensa cercado de microfones; à direita, Valdemar Costa Neto, presidente do PL.",
+  "horario": "08:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/02.png",
+  "modelo": "foto",
+  "titulo": "PL reconhece vitória de Lula, mas cobra esclarecimentos sobre a eleição",
+  "fotos": [
+   "posts/2026-10-27/fotos/pl.jpg"
+  ],
+  "legenda": "O Partido Liberal, de Flávio Bolsonaro, reconheceu em nota a vitória de Lula no segundo turno.\n\n🔹 O presidente do partido, Valdemar Costa Neto, disse que o resultado foi proclamado pelo TSE, mas pediu esclarecimentos sobre medidas que classificou como eleitoreiras.\n📊 Lula teve 64,2 milhões de votos (51,7%); Flávio, 59,8 milhões (48,2%).\n\nFonte: Agência Brasil\n📷 Foto: Marcello Casal Jr/Agência Brasil\n\n#JogueiNews #Eleições2026 #PL #Lula",
+  "alt": "Valdemar Costa Neto, presidente do PL, fala à imprensa em Brasília.",
+  "horario": "09:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/03.png",
+  "modelo": "duplo",
+  "titulo": "Posse de Lula para o quarto mandato será em 5 de janeiro de 2027",
+  "fotos": [
+   "posts/2026-10-27/fotos/posse.jpg",
+   "posts/2026-10-27/fotos/lideres.jpg"
+  ],
+  "legenda": "A posse do presidente Lula, com Geraldo Alckmin como vice, será em 5 de janeiro de 2027, e não mais em 1º de janeiro.\n\n🔹 A data segue a Emenda Constitucional nº 111, de 2021.\n📍 Governadores e vices tomam posse no dia seguinte, o que permite que os eleitos acompanhem a cerimônia em Brasília.\n\nFonte: Agência Brasil\n📷 Fotos: Paulo Pinto/Agência Brasil\n\n#JogueiNews #Lula #Posse #Brasil",
+  "alt": "Lula em duas imagens na Avenida Paulista, em São Paulo.",
+  "horario": "10:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/04.png",
+  "modelo": "foto",
+  "titulo": "Líderes de vários países parabenizam Lula pela reeleição",
+  "fotos": [
+   "posts/2026-10-27/fotos/lideres.jpg"
+  ],
+  "legenda": "Líderes de vários países cumprimentaram Lula pela reeleição no segundo turno.\n\n🔹 Macron, Pedro Sánchez, Claudia Sheinbaum, Mark Carney e Ursula von der Leyen estão entre os que parabenizaram o presidente.\n🔹 China e Rússia também enviaram mensagens, e o equatoriano Daniel Noboa citou desafios comuns da região.\n\nFonte: Agência Brasil\n📷 Foto: Paulo Pinto/Agência Brasil\n\n#JogueiNews #Lula #Mundo #Eleições2026",
+  "alt": "Lula conversa com eleitores na Avenida Paulista, em São Paulo.",
+  "horario": "11:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/05.png",
+  "modelo": "duplo",
+  "titulo": "Trump questiona eleição brasileira e Alckmin rebate: 'equivocado'",
+  "fotos": [
+   "posts/2026-10-27/fotos/lideres.jpg",
+   "posts/2026-10-27/fotos/posse.jpg"
+  ],
+  "legenda": "O presidente dos EUA, Donald Trump, questionou o processo eleitoral brasileiro e criticou a prorrogação do horário de votação, mas disse se dar bem com Lula.\n\n🔹 O vice-presidente reeleito, Geraldo Alckmin, classificou a fala como equivocada e disse que nenhum país deve interferir na política de outro.\n⏰ A votação foi estendida por duas horas, até as 19h, por decisão do ministro do STF Cristiano Zanin, após relatos de restrições ao transporte coletivo.\n\nFonte: Agência Brasil\n📷 Fotos: Paulo Pinto/Agência Brasil\n\n#JogueiNews #Política #Alckmin #Brasil",
+  "alt": "Lula e o vice Geraldo Alckmin em eventos de campanha na Avenida Paulista, em São Paulo.",
+  "horario": "12:00",
+  "fonte": "Agência Brasil",
+  "foco": [
+   [
+    0.8,
+    0.8
+   ],
+   [
+    0.8,
+    0.75
+   ]
+  ]
+ },
+ {
+  "saida": "posts/2026-10-27/06.png",
+  "modelo": "foto",
+  "titulo": "Holanda anuncia US$ 500 milhões no fundo para florestas tropicais criado pelo Brasil",
+  "fotos": [
+   "posts/2026-10-27/fotos/floresta.jpg"
+  ],
+  "legenda": "O governo da Holanda pretende investir US$ 500 milhões no Fundo Florestas Tropicais para Sempre (TFFF), idealizado pelo Brasil e lançado na COP30, em Belém.\n\n🔹 O aporte será feito ao longo de 10 anos.\n📊 A meta do fundo é reunir ao menos US$ 125 bilhões, sendo US$ 100 bilhões do setor privado e US$ 25 bilhões de governos.\n\nFonte: Agência Brasil\n📷 Foto: Rafa Neddermeyer/Agência Brasil\n\n#JogueiNews #MeioAmbiente #TFFF #Amazônia",
+  "alt": "Rio cortando a floresta amazônica, no Acre.",
+  "horario": "13:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/07.png",
+  "modelo": "duplo",
+  "titulo": "Flamengo vence o Atlético-MG com gol de pênalti nos acréscimos e segue líder do Brasileirão",
+  "fotos": [
+   "posts/2026-10-27/fotos/flamengo.jpg",
+   "posts/2026-10-27/fotos/flamengo2.jpg"
+  ],
+  "legenda": "O Flamengo bateu o Atlético-MG por 3 a 2, nesta segunda-feira (26), no Maracanã, pela 32ª rodada do Brasileirão.\n\n⚽ O gol da vitória saiu de pênalti, nos acréscimos, com Jorge Carrascal.\n📊 O time chegou a 70 pontos, um a mais que o Palmeiras, segundo colocado. O Atlético-MG tem 50 e está em sexto.\n\nFonte: Agência Brasil\n📷 Fotos: Boaventuravinicius e Drmarcelodavid/Wikimedia Commons (CC BY-SA 4.0)\n\n#JogueiNews #Flamengo #Brasileirão #Futebol",
+  "alt": "Dois registros de jogos do Flamengo no Maracanã, em fotos de arquivo.",
+  "horario": "14:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/08.png",
+  "modelo": "foto",
+  "titulo": "Anvisa proíbe picolé com melatonina e manda recolher suplemento de proteína",
+  "fotos": [
+   "posts/2026-10-27/fotos/anvisa.jpg"
+  ],
+  "legenda": "A Anvisa proibiu a venda de dois produtos alimentícios nesta segunda-feira (26) porque seus ingredientes não passaram por avaliação de segurança.\n\n🔹 Um picolé com magnésio e inositol, com melatonina, foi vetado. Esses compostos só são autorizados em suplementos.\n🔹 Um suplemento de proteína sabor chocolate foi recolhido por conter proteína de fava hidrolisada sem avaliação para uso em alimentos.\n\nFonte: Agência Brasil\n📷 Foto: Valter Campanato/Agência Brasil\n\n#JogueiNews #Anvisa #Saúde #Brasil",
+  "alt": "Fachada da sede da Anvisa, em Brasília.",
+  "horario": "15:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/09.png",
+  "modelo": "duplo",
+  "titulo": "Dengue: 3 milhões de adolescentes ainda não tomaram a segunda dose da vacina",
+  "fotos": [
+   "posts/2026-10-27/fotos/dengue.jpg",
+   "posts/2026-10-27/fotos/anvisa.jpg"
+  ],
+  "legenda": "Mais de 3 milhões de adolescentes que tomaram a primeira dose da vacina contra a dengue ainda não voltaram para a segunda.\n\n🔹 O esquema tem duas doses, com três meses de intervalo, e a proteção completa só vem depois da segunda.\n📊 Foram aplicadas cerca de 11,8 milhões de doses, e quase 4 milhões enviadas aos municípios ainda não foram usadas.\n📍 O público-alvo tem de 10 a 14 anos.\n\nFonte: Agência Brasil\n📷 Fotos: Rovena Rosa/Agência Brasil e Valter Campanato/Agência Brasil\n\n#JogueiNews #Dengue #Saúde #Vacina",
+  "alt": "À esquerda, frasco de vacina contra dengue; à direita, fachada da Anvisa em Brasília.",
+  "horario": "16:00",
+  "fonte": "Agência Brasil"
+ },
+ {
+  "saida": "posts/2026-10-27/10.png",
+  "modelo": "foto",
+  "titulo": "Mega-Sena acumula e prêmio vai a R$ 305 milhões; semana terá cinco sorteios",
+  "fotos": [
+   "posts/2026-10-27/fotos/mega.jpg"
+  ],
+  "legenda": "Ninguém acertou as seis dezenas do concurso 3.075 da Mega-Sena, sorteado na segunda (26): 07, 10, 14, 27, 36 e 55.\n\n💰 O prêmio acumulou e está estimado em R$ 305 milhões.\n🔹 A Quina teve 182 ganhadores, e a Quadra, 11.018.\n⏰ Até sexta (30), a Caixa faz a Mega Semana, com cinco sorteios às 21h. Apostas até as 20h; a simples custa R$ 6.\n\nFonte: Agência Brasil\n📷 Foto: Rafa Neddermeyer/Agência Brasil\n\n#JogueiNews #MegaSena #Loteria #Brasil",
+  "alt": "Volantes da Mega-Sena sendo preenchidos em uma casa lotérica.",
+  "horario": "17:00",
+  "fonte": "Agência Brasil"
+ }
+]
