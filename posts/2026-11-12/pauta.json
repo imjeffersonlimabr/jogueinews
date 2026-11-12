@@ -1,0 +1,157 @@
+[
+ {
+  "modelo": "foto",
+  "titulo": "Bets: Congresso prorroga por 60 dias a MP que proíbe apostas on-line no país",
+  "fotos": [
+   "posts/2026-11-12/fotos/bets.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.45
+   ]
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Plenário do Congresso Nacional em sessão, em Brasília.",
+  "legenda": "🔹 O Congresso prorrogou por 60 dias a validade da MP 1.394/2026, que proíbe a operação, a oferta e a publicidade de apostas on-line no Brasil.\n\n📍 O ato de prorrogação foi assinado pelo presidente do Congresso, Davi Alcolumbre, e publicado no Diário Oficial da União nesta quarta (11).\n\n⚖️ Quatro ações no STF contestam a medida. A pedido da PGR, o ministro Luiz Fux suspendeu as ações judiciais contra a proibição até o plenário julgar o mérito.\n\nFonte: Agência Brasil\n📷 Foto: Lula Marques/Agência Brasil\n\n#JogueiNews #Bets #Congresso #STF",
+  "saida": "posts/2026-11-12/01.png",
+  "horario": "08:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Governo apresenta pacote para economizar até R$ 60 bi em 2027; teto de gastos reais cairia a 2%",
+  "fotos": [
+   "posts/2026-11-12/fotos/ajuste.jpg",
+   "posts/2026-11-12/fotos/diesel.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Duas fotos de Brasília relacionadas ao pacote fiscal do governo.",
+  "legenda": "🔹 O ministro do Planejamento, Bruno Moretti, apresentou à Comissão Mista de Orçamento medidas que podem economizar de R$ 50 bi a R$ 60 bi em 2027.\n\n📊 O crescimento real das despesas federais ficaria limitado a 2% (hoje, 2,5%) e haveria corte linear de 10% em incentivos tributários.\n\n📍 O pacote será um projeto de lei complementar negociado com o Senado e precisa ser aprovado pelas duas Casas. A meta é superávit primário de 0,5% do PIB em 2027.\n\nFonte: Agência Brasil\n📷 Foto: Lula Marques/Agência Brasil e Marcello Casal Jr/Agência Brasil\n\n#JogueiNews #Economia #ContasPúblicas #Orçamento",
+  "saida": "posts/2026-11-12/02.png",
+  "horario": "09:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Estudo registra 18 mortes e 379 casos de violência política em 27 dias de outubro",
+  "fotos": [
+   "posts/2026-11-12/fotos/violencia.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.45
+   ]
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Eleitores em zona eleitoral de São Paulo.",
+  "legenda": "🔹 Levantamento de Terra de Direitos e Justiça Global contabilizou ao menos 18 mortes e 379 casos de violência política entre 5 e 31 de outubro, no 2º turno e na semana seguinte.\n\n📊 Do total, 350 casos (92,3%) atingiram eleitores, militantes, equipes de campanha e comitês.\n\n📍 Pequenos municípios, de até 50 mil habitantes, concentraram 12 das 18 mortes.\n\nFonte: Agência Brasil\n📷 Foto: Paulo Pinto/Agência Brasil (arquivo, 2024)\n\n#JogueiNews #Política #Eleições2026",
+  "saida": "posts/2026-11-12/03.png",
+  "horario": "10:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Portugal fecha escolas e decreta alerta nacional com chegada da tempestade Charles",
+  "fotos": [
+   "posts/2026-11-12/fotos/lisboa1.jpg",
+   "posts/2026-11-12/fotos/lisboa2.jpg"
+  ],
+  "fonte": "Agência Brasil (Lusa)",
+  "alt": "Imagens de arquivo de dias de tempestade em Lisboa.",
+  "legenda": "🔹 Portugal declarou alerta nacional diante da tempestade Charles, com rajadas de até 140 km/h previstas nas áreas mais expostas, segundo o instituto de meteorologia IPMA.\n\n📍 Escolas de todos os níveis e serviços públicos não essenciais foram fechados. Atividades ao ar livre estão proibidas e 101 municípios podem ter inundações urbanas.\n\n⏰ A concessionária dos aeroportos prevê cancelamentos de voos em Lisboa, Faro e Madeira.\n\nFonte: Agência Brasil (Lusa)\n📷 Foto: F Mira (CC BY-SA 2.0), imagens de arquivo, via Wikimedia Commons\n\n#JogueiNews #Portugal #Tempestade",
+  "saida": "posts/2026-11-12/04.png",
+  "horario": "11:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Presença de mulheres no comando de prefeituras mais que dobrou em 24 anos, aponta IBGE",
+  "fotos": [
+   "posts/2026-11-12/fotos/prefeituras.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.4
+   ]
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Foto de arquivo da Agência Brasil ligada à política municipal.",
+  "legenda": "📊 Segundo a Munic, do IBGE, as mulheres prefeitas passaram de 6% em 2001 para 13,4% em 2025: eram 749 prefeitas contra 4.821 prefeitos.\n\n🔹 O IBGE considera o grupo ainda sub-representado, já que mulheres são 51,2% da população.\n\n🎓 Entre os prefeitos, 61,4% tinham ao menos ensino superior completo. A reeleição chegou a 2.635 prefeitos (47,3%).\n\nFonte: Agência Brasil\n📷 Foto: Antônio Cruz/Agência Brasil\n\n#JogueiNews #IBGE #Prefeituras",
+  "saida": "posts/2026-11-12/05.png",
+  "horario": "12:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Toffoli vota para acabar com imunidade em crime patrimonial de marido contra mulher",
+  "fotos": [
+   "posts/2026-11-12/fotos/toffoli.jpg",
+   "posts/2026-11-12/fotos/prefeituras.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Ministro Dias Toffoli em sessão do STF e foto de arquivo ligada ao tema da mulher na política.",
+  "legenda": "⚖️ O relator, ministro Dias Toffoli, votou no STF para derrubar a imunidade do artigo 181 do Código Penal, que isenta de pena o cônjuge que comete crimes patrimoniais contra a esposa. A regra vigora desde 1940.\n\n🔹 Para o relator, a norma não foi recebida pela Constituição de 1988 e favorece a dependência econômica que mantém mulheres em relações abusivas.\n\n⏰ O julgamento foi suspenso e retoma nesta quinta (12). Faltam oito votos.\n\nFonte: Agência Brasil\n📷 Foto: Rosinei Coutinho/STF (via Agência Brasil) e Antônio Cruz/Agência Brasil\n\n#JogueiNews #STF #DireitosDasMulheres",
+  "saida": "posts/2026-11-12/06.png",
+  "horario": "13:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Espanha tem primeira greve geral em 14 anos por crise de moradia; eleição é em 29 de novembro",
+  "fotos": [
+   "posts/2026-11-12/fotos/sanchez1.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.3
+   ]
+  ],
+  "fonte": "Agência Brasil (Reuters)",
+  "alt": "Retrato do primeiro-ministro espanhol Pedro Sánchez.",
+  "legenda": "🔹 Trabalhadores espanhóis fizeram nesta quarta (11) a primeira greve geral desde 2012, em protesto contra a crise de moradia, os aluguéis altos e os despejos.\n\n📊 O aluguel médio é de € 1.176, quase o salário mensal médio de um jovem, segundo o Conselho da Juventude. As centrais UGT e CCOO apoiaram o ato.\n\n📍 O primeiro-ministro, Pedro Sánchez, convocou eleições gerais antecipadas para 29 de novembro.\n\nFonte: Agência Brasil (Reuters)\n📷 Foto: PSOE Extremadura (CC BY 2.0), via Wikimedia Commons\n\n#JogueiNews #Espanha #Greve",
+  "saida": "posts/2026-11-12/07.png",
+  "horario": "14:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "MEC define novas regras para educação de alunos com altas habilidades; laudo não será exigido",
+  "fotos": [
+   "posts/2026-11-12/fotos/mec.jpg",
+   "posts/2026-11-12/fotos/enem.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Fotos de arquivo de estudantes e do MEC.",
+  "legenda": "🎓 O MEC homologou o Parecer CNE nº 12/2026, que atualiza as diretrizes para alunos com altas habilidades ou superdotação.\n\n🔹 A identificação passa a ser um ato pedagógico: laudo clínico ou teste padronizado não poderão ser exigidos para reconhecer o aluno nem para dar acesso ao atendimento educacional especializado.\n\n📍 As normas também preveem formação de professores e busca ativa de estudantes sub-representados.\n\nFonte: Agência Brasil\n📷 Foto: Tomaz Silva/Agência Brasil e Joédson Alves/Agência Brasil\n\n#JogueiNews #Educação #MEC",
+  "saida": "posts/2026-11-12/08.png",
+  "horario": "15:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Parada LGBTI+ do Rio será em 22 de novembro, em Copacabana; programação começa na sexta",
+  "fotos": [
+   "posts/2026-11-12/fotos/parada.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Bandeira do arco-íris.",
+  "legenda": "🌈 A 31ª Parada LGBTI+ do Rio acontece em 22 de novembro, a partir das 11h, com concentração no Posto 5, em Copacabana. O tema é \"Reconhecemos justa toda forma de amor\".\n\n📍 Serão nove horas de desfile com oito trios elétricos. A pré-programação, com mais de 30 atividades, começa na sexta (13), no Palácio Guanabara.\n\n🔹 O ato marca 15 anos do reconhecimento da união estável homoafetiva pelo STF e pede leis que consolidem esses direitos. A organização é do Grupo Arco-Íris.\n\nFonte: Agência Brasil\n📷 Foto: Lillen/Pixabay\n\n#JogueiNews #Rio #ParadaLGBT",
+  "saida": "posts/2026-11-12/09.png",
+  "horario": "16:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Xororó conta que deu bronca em Leonardo por mensagens impróprias em grupo de trabalho",
+  "fotos": [
+   "posts/2026-11-12/fotos/xororo.jpg",
+   "posts/2026-11-12/fotos/amigos.jpg"
+  ],
+  "fonte": "Portal Leo Dias",
+  "alt": "Xororó e, ao lado, Leonardo com outros artistas sertanejos.",
+  "legenda": "🎤 Em entrevista ao Conexão TV Web, Xororó contou que precisou chamar a atenção de Leonardo por conteúdo que o amigo enviava em um grupo de WhatsApp criado para assuntos de trabalho.\n\n🔹 Segundo o cantor, Leonardo, que descreveu como \"muito brincalhão\", aceitou a bronca e disse que não repetiria o que fez.\n\n❤️ Xororó afirmou que o episódio não abalou a amizade de décadas entre os dois.\n\nFonte: Portal Leo Dias\n📷 Foto: Renan Katayama (CC BY-SA 2.0) e Programa Variedades (CC BY 3.0), via Wikimedia Commons\n\n#JogueiNews #Xororó #Leonardo",
+  "saida": "posts/2026-11-12/10.png",
+  "horario": "17:00"
+ }
+]
