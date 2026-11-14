@@ -1,0 +1,145 @@
+[
+ {
+  "modelo": "duplo",
+  "titulo": "EUA suspendem todas as decolagens após falha de comunicação; mais de mil voos foram cancelados",
+  "fotos": [
+   "posts/2026-11-14/fotos/aviao.jpg",
+   "posts/2026-11-14/fotos/galeao.jpg"
+  ],
+  "fonte": "Agência Brasil e Portal Leo Dias",
+  "alt": "À esquerda, avião decolando; à direita, passageiros em um terminal de aeroporto.",
+  "legenda": "🔹 A FAA, agência de aviação dos EUA, suspendeu todas as decolagens no país na sexta (13) após uma falha de comunicação nos centros de controle de tráfego aéreo.\n\n📊 Segundo o FlightAware, mais de mil voos foram cancelados e quase 10 mil atrasaram. O Departamento de Segurança Interna disse que não há indícios de ataque.\n\n📍 No Brasil, a Gol tinha dois voos previstos para os EUA no dia, saindo de Brasília, e a Azul, um de Campinas para Orlando.\n\nFonte: Agência Brasil e Portal Leo Dias\n📷 Fotos: Rovena Rosa e Fernando Frazão/Agência Brasil (imagens de arquivo)\n\n#JogueiNews #EUA #Aviação #FAA",
+  "saida": "posts/2026-11-14/01.png",
+  "horario": "08:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "STF tem 4 votos para manter início da escala 5x2 em 16 de dezembro; julgamento termina na segunda",
+  "fotos": [
+   "posts/2026-11-14/fotos/stf.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Fachada do prédio do Supremo Tribunal Federal, em Brasília.",
+  "legenda": "🔹 O STF tem quatro votos para referendar a liminar do ministro Flávio Dino sobre as regras de transição da escala 5x2.\n\n📍 Dino manteve o início da nova escala em 16 de dezembro de 2026 e permitiu distribuir a carga de 42 horas semanais em cinco dias, com jornada de até 8h24.\n\n⏰ Acompanharam o relator Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes. A votação virtual deve terminar na segunda (16).\n\nFonte: Agência Brasil\n📷 Foto: Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo, 2023)\n\n#JogueiNews #STF #Escala5x2 #Trabalho",
+  "saida": "posts/2026-11-14/02.png",
+  "horario": "09:00",
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ]
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Dólar fecha a R$ 5,66 e sobe 2,63% na semana; Ibovespa avança 0,66% e vai a 172,4 mil pontos",
+  "fotos": [
+   "posts/2026-11-14/fotos/dinheiro.jpg",
+   "posts/2026-11-14/fotos/notas.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "À esquerda, mão segurando notas de R$ 50; à direita, notas de R$ 100 no bolso de uma calça jeans.",
+  "legenda": "📊 O dólar à vista fechou a sexta (13) em R$ 5,657, alta de 0,11% no dia e de 2,63% na semana.\n\n🔹 O Ibovespa subiu 0,66%, aos 172.457 pontos, e acumulou alta de 2,35% na semana, puxado por varejistas e petroleiras.\n\n📍 O mercado seguiu atento às incertezas sobre o pacote fiscal do governo, aprovado no Senado na quinta (12), e à inflação nos EUA.\n\nFonte: Agência Brasil\n📷 Fotos: Marcello Casal Jr e Rafa Neddermeyer/Agência Brasil (imagens de arquivo)\n\n#JogueiNews #Dólar #Ibovespa #Economia",
+  "saida": "posts/2026-11-14/03.png",
+  "horario": "10:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Receita vai cancelar dívidas previdenciárias de MEIs sem necessidade de pedido; lei vale a partir de 1º de janeiro",
+  "fotos": [
+   "posts/2026-11-14/fotos/mei.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Duas manicures atendendo clientes em um salão de beleza.",
+  "legenda": "🔹 Com base na Lei Complementar 238/2026, a Receita Federal vai cancelar de ofício dívidas de contribuição previdenciária de microempreendedores individuais. Juros e multas entram no perdão.\n\n⏰ A lei começa a valer em 1º de janeiro de 2027. Para manter o benefício, o MEI precisa pagar em dia os DAS de janeiro a junho de 2027.\n\n📍 ICMS e ISS não são perdoados. Quem discute a dívida na Justiça precisa desistir da ação.\n\nFonte: Agência Brasil\n📷 Foto: Elza Fiúza/Agência Brasil\n\n#JogueiNews #MEI #Receita #Economia",
+  "saida": "posts/2026-11-14/04.png",
+  "horario": "11:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Governo não renova subsídio de R$ 1,40 por litro ao diesel importado; o de R$ 2,12 segue por mais 30 dias",
+  "fotos": [
+   "posts/2026-11-14/fotos/diesel.jpg",
+   "posts/2026-11-14/fotos/ajuste.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "À esquerda, caminhão-tanque em um posto de combustível; à direita, comissão de parlamentares reunida em Brasília.",
+  "legenda": "🔹 O Ministério da Fazenda informou na sexta (13) que não vai renovar o subsídio de R$ 1,40 por litro ao diesel importado, que chegou ao fim.\n\n📍 O subsídio de R$ 2,12 por litro ao diesel A de uso rodoviário foi mantido e prorrogado por mais 30 dias.\n\n📊 O governo diz que mais de 25% do consumo nacional de diesel depende de importações e não descarta reavaliar a medida conforme o preço do petróleo.\n\nFonte: Agência Brasil\n📷 Fotos: Marcello Casal Jr e Lula Marques/Agência Brasil (imagens de arquivo)\n\n#JogueiNews #Diesel #Combustíveis #Economia",
+  "saida": "posts/2026-11-14/05.png",
+  "horario": "12:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Governo estuda novo modelo para o concurso público unificado de 2027, nos moldes do Enem",
+  "fotos": [
+   "posts/2026-11-14/fotos/dweck.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "A ministra Esther Dweck, da Gestão e da Inovação em Serviços Públicos, em entrevista.",
+  "legenda": "🔹 A ministra Esther Dweck, da Gestão, afirmou que o governo avalia um novo formato para o Concurso Nacional Unificado de 2027: prova nacional dividida por áreas de atuação, nos moldes do Enem.\n\n📍 Antes de abrir nova edição, todos os aprovados nas anteriores precisam ser chamados. Ainda não há número de vagas autorizado para 2027, que depende do Orçamento.\n\n⏰ Para as próximas semanas, o ministério prevê publicar a convocação de vagas remanescentes de edições anteriores.\n\nFonte: Agência Brasil\n📷 Foto: Fabio Rodrigues-Pozzebom/Agência Brasil\n\n#JogueiNews #Concursos #CNU #Governo",
+  "saida": "posts/2026-11-14/06.png",
+  "horario": "13:00",
+  "foco": [
+   [
+    0.5,
+    0.4
+   ]
+  ]
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Enem 2026: segundo dia de provas é neste domingo; portões abrem ao meio-dia e fecham às 13h",
+  "fotos": [
+   "posts/2026-11-14/fotos/enem1.jpg",
+   "posts/2026-11-14/fotos/enem2.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Estudantes em sala de aula durante revisão para o Enem.",
+  "legenda": "📍 O segundo dia do Enem 2026 será neste domingo (15). Os portões abrem às 12h e fecham às 13h, no horário de Brasília. A prova começa às 13h30 e dura cinco horas.\n\n🔹 São 45 questões de Matemática e 45 de Ciências da Natureza. Mais de 5,05 milhões de candidatos estão confirmados.\n\n📝 Leve documento oficial com foto, caneta preta de tubo transparente e o cartão de confirmação impresso.\n\nFonte: Agência Brasil\n📷 Fotos: Agência Brasil Fotografias (CC BY 2.0) e Wilson Dias/Agência Brasil (CC BY 3.0 BR), via Wikimedia Commons, imagens de arquivo\n\n#JogueiNews #Enem #Enem2026 #Educação",
+  "saida": "posts/2026-11-14/07.png",
+  "horario": "14:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "INSS faz mutirão com quase 8 mil vagas de perícia médica e avaliação social neste fim de semana",
+  "fotos": [
+   "posts/2026-11-14/fotos/inss.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Fachada de uma agência da Previdência Social.",
+  "legenda": "🔹 O INSS oferece 7.959 vagas de atendimento neste sábado (14) e domingo (15), em mutirão de perícia médica e de avaliação social.\n\n📍 As vagas estão em agências da Previdência de vários estados, entre eles Pernambuco, Rio de Janeiro, Bahia, Maranhão, Alagoas, Pará e Paraná.\n\n⏰ O agendamento é feito pelo site do INSS, pelo aplicativo Meu INSS ou pela Central 135.\n\nFonte: Agência Brasil\n📷 Foto: Marcelo Camargo/Agência Brasil (imagem de arquivo)\n\n#JogueiNews #INSS #Previdência #MeuINSS",
+  "saida": "posts/2026-11-14/08.png",
+  "horario": "15:00"
+ },
+ {
+  "modelo": "duplo",
+  "titulo": "Fifa abre venda de ingressos da Copa Feminina 2027 em 1º de dezembro; pacotes de três jogos partem de R$ 100",
+  "fotos": [
+   "posts/2026-11-14/fotos/arena1.jpg",
+   "posts/2026-11-14/fotos/arena2.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Duas imagens ilustrativas de estádios de futebol.",
+  "legenda": "🔹 A Fifa anunciou na sexta (13), no Maracanã, a primeira etapa de vendas de ingressos para a Copa do Mundo Feminina de 2027: de 1º a 8 de dezembro.\n\n📍 O torneio será de 24 de junho a 25 de julho de 2027. O sorteio dos grupos é em 11 de dezembro.\n\n📊 Há pacotes de três partidas a partir de R$ 100. A venda é só pelo site da Fifa, com cadastro prévio em FIFA.com/tickets e criação de FIFA ID.\n\nFonte: Agência Brasil\n📷 Fotos: Jorge Morales Piderit (CC0) e Leonardo Lourenço/Portal da Copa (CC BY-SA 3.0), via Wikimedia Commons, imagens ilustrativas de estádio\n\n#JogueiNews #CopaFeminina #Futebol #Fifa",
+  "saida": "posts/2026-11-14/09.png",
+  "horario": "16:00"
+ },
+ {
+  "modelo": "foto",
+  "titulo": "Morre a cantora Claudette Soares, aos 91 anos, no dia do lançamento do seu último álbum",
+  "fotos": [
+   "posts/2026-11-14/fotos/claudette.jpg"
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "A cantora Claudette Soares durante apresentação, com microfone na mão e braço erguido.",
+  "legenda": "🔹 A cantora carioca Claudette Soares morreu na madrugada de sexta (13), aos 91 anos, após um mal súbito, no mesmo dia em que o álbum \"O mundo é ruim para quem não sabe esperar\" chegou às plataformas.\n\n🎶 Na terça, ela cantou para um público selecionado na audição do disco, com produção de Marcus Preto e Big Rabello.\n\n📍 Em sua carreira, cantou baião com Luiz Gonzaga e bossa nova com Baden Powell e João Donato.\n\nFonte: Agência Brasil\n📷 Foto: SambaSoul (domínio público), via Wikimedia Commons\n\n#JogueiNews #ClaudetteSoares #Música #MPB",
+  "saida": "posts/2026-11-14/10.png",
+  "horario": "17:00",
+  "foco": [
+   [
+    0.5,
+    0.3
+   ]
+  ]
+ }
+]
