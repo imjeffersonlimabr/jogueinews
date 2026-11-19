@@ -1,0 +1,187 @@
+[
+ {
+  "saida": "posts/2026-11-19/01.png",
+  "modelo": "foto",
+  "titulo": "Trump, Putin e Xi Jinping se reúnem na China em cúpula inédita; Trump diz que as três potências querem reduzir armas nucleares",
+  "fotos": [
+   "posts/2026-11-19/fotos/xiputin.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.4
+   ]
+  ],
+  "fonte": "R7 e g1",
+  "alt": "Os presidentes da Rússia, Vladimir Putin, e da China, Xi Jinping, lado a lado, em foto de arquivo.",
+  "legenda": "🌍 Os presidentes dos Estados Unidos, Donald Trump, da Rússia, Vladimir Putin, e da China, Xi Jinping, tiveram nesta quinta-feira (19) o primeiro encontro reservado entre os três, em Shenzhen, durante a cúpula da Apec.\n\n🔹 Segundo o R7, Trump disse que as três potências estão em posição única para discutir a redução do número de armas nucleares e do risco de elas serem usadas, mas admitiu que é algo difícil de fazer.\n\n📍 Trump e Xi também tiveram uma reunião bilateral. Analistas ouvidos pela imprensa avaliam que um acordo amplo em um único encontro é improvável.\n\nFonte: R7 e g1\n📷 Foto: Sergei Bobylev/RIA Novosti (CC BY 4.0), via Wikimedia Commons, imagem de arquivo\n\n#JogueiNews #Mundo #Trump #Putin #XiJinping",
+  "horario": "08:00"
+ },
+ {
+  "saida": "posts/2026-11-19/02.png",
+  "modelo": "duplo",
+  "titulo": "Senado conclui votação do ajuste fiscal; Câmara começa a analisar o pacote na segunda-feira (23)",
+  "fotos": [
+   "posts/2026-11-19/fotos/congresso.jpg",
+   "posts/2026-11-19/fotos/ajuste.jpg"
+  ],
+  "fonte": "g1, R7 e UOL",
+  "alt": "Montagem com fotos de arquivo do Congresso Nacional e de uma reunião sobre o ajuste fiscal.",
+  "legenda": "🔹 O Senado concluiu a votação do pacote de ajuste fiscal do governo Lula. O ministro do Planejamento, Bruno Moretti, afirmou que o texto manteve a essência da proposta e preserva políticas sociais em 2027.\n\n📊 O governo estima impacto de até R$ 60 bilhões nas contas de 2027. Na votação, o repasse da Lei Kandir previsto para 2027 subiu de R$ 1 bilhão para R$ 2 bilhões, com recomposição entre 2028 e 2030.\n\n⏰ O presidente da Câmara, Hugo Motta, convocou sessão para segunda-feira (23) para começar a analisar o texto.\n\nFonte: g1, R7 e UOL\n📷 Fotos: Lula Marques/Agência Brasil (imagens de arquivo)\n\n#JogueiNews #AjusteFiscal #Senado #Economia",
+  "horario": "09:00"
+ },
+ {
+  "saida": "posts/2026-11-19/03.png",
+  "modelo": "foto",
+  "titulo": "Dólar sobe pela 5ª sessão seguida e fecha a R$ 5,87, maior valor desde abril de 2025, com temor fiscal",
+  "fotos": [
+   "posts/2026-11-19/fotos/dinheiro2.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "fonte": "R7 e Agência Brasil",
+  "alt": "Notas de real espalhadas, em imagem de arquivo.",
+  "legenda": "📊 O dólar à vista subiu 1,48% na quarta-feira (18) e fechou a R$ 5,8677, a maior cotação desde 15 de abril de 2025. É a quinta alta seguida.\n\n🔹 Segundo o R7, a moeda foi pressionada pelo avanço do dólar no exterior e pela tramitação do ajuste fiscal no Congresso, mesmo com leilões de câmbio do Banco Central.\n\n📍 Desde a vitória de Lula no 2º turno, em 25 de outubro, o dólar acumula alta de 17,6%. No ano, a alta é de 6,9%.\n\nFonte: R7 e Agência Brasil\n📷 Foto: Marcello Casal Jr/Agência Brasil (imagem de arquivo)\n\n#JogueiNews #Dólar #Economia #Câmbio",
+  "horario": "10:00"
+ },
+ {
+  "saida": "posts/2026-11-19/04.png",
+  "modelo": "duplo",
+  "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1; transição para a jornada 5x2 começa em 16 de dezembro",
+  "fotos": [
+   "posts/2026-11-19/fotos/lula.jpg",
+   "posts/2026-11-19/fotos/mte.jpg"
+  ],
+  "fonte": "g1 e R7",
+  "alt": "Montagem com fotos de arquivo do presidente Lula e da sede do Ministério do Trabalho.",
+  "legenda": "🔹 O presidente Lula deve assinar nesta quinta-feira (19) o decreto que regulamenta o fim da escala 6x1 e define as regras de transição para a jornada 5x2.\n\n⏰ Pela emenda constitucional, a transição começa em 16 de dezembro de 2026, com a jornada caindo de 44 para 42 horas semanais. Doze meses depois, o limite cai para 40 horas, sem redução de salário.\n\n📍 Segundo o g1, a emenda também prevê dois dias de descanso semanal. A forma de distribuir as folgas por setor será negociada em convenção coletiva.\n\nFonte: g1 e R7\n📷 Fotos: Lula Oficial (CC BY-SA 4.0), via Wikimedia Commons, e Marcelo Camargo/Agência Brasil (imagens de arquivo)\n\n#JogueiNews #Escala6x1 #Trabalho #Lula",
+  "horario": "11:00",
+  "foco": [
+   [
+    0.3,
+    0.3
+   ],
+   [
+    0.2,
+    0.4
+   ]
+  ]
+ },
+ {
+  "saida": "posts/2026-11-19/05.png",
+  "modelo": "foto",
+  "titulo": "Brasil pede à OMC que julgue o tarifaço dos EUA após consultas sem acordo; decisão sobre o painel pode sair no dia 24",
+  "fotos": [
+   "posts/2026-11-19/fotos/itamaraty.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "fonte": "g1",
+  "alt": "Fachada do Palácio do Itamaraty, em Brasília, em imagem de arquivo.",
+  "legenda": "🔹 O governo brasileiro formalizou na Organização Mundial do Comércio um pedido para que a entidade julgue o tarifaço imposto pelos Estados Unidos a produtos brasileiros.\n\n📍 As consultas entre os dois países, realizadas em 25 de setembro, em Genebra, não chegaram a um acordo. O Brasil quer que a decisão sobre abrir o painel seja tomada na reunião do Órgão de Solução de Controvérsias, no dia 24.\n\n📊 O pedido questiona as tarifas de 25% e de 12,5%. Segundo o g1, integrantes do governo dizem que ainda não há indicativo de reversão das tarifas por esse caminho.\n\nFonte: g1\n📷 Foto: Boaventuravinicius/Wikimedia Commons (CC BY-SA 4.0), imagem de arquivo\n\n#JogueiNews #OMC #Tarifaço #Brasil #EUA",
+  "horario": "12:00"
+ },
+ {
+  "saida": "posts/2026-11-19/06.png",
+  "modelo": "duplo",
+  "titulo": "Flamengo vira sobre o Athletico-PR, e Palmeiras perde para o Cruzeiro; empate no sábado dá o título ao Rubro-Negro",
+  "fotos": [
+   "posts/2026-11-19/fotos/flamengo.jpg",
+   "posts/2026-11-19/fotos/palmeiras.jpg"
+  ],
+  "fonte": "UOL e R7",
+  "alt": "Montagem com fotos de arquivo de jogos de Flamengo e Palmeiras.",
+  "legenda": "⚽ O Flamengo venceu o Athletico-PR por 2 a 1 no Maracanã, com gols de Carrascal e Jorginho, de pênalti, depois de sair atrás com um gol de Vargas. Já o Palmeiras perdeu por 2 a 1 para o Cruzeiro, no Mineirão.\n\n🏆 Os dois times se enfrentam no sábado (21), no Nubank Parque. Segundo o UOL, um empate já dá a taça ao Flamengo.\n\n📍 Léo Pereira e Erick Pulgar receberam o terceiro amarelo e são desfalques do Flamengo no clássico.\n\nFonte: UOL e R7\n📷 Fotos: Boaventuravinicius (CC BY-SA 4.0) e Guilherme (CC0), via Wikimedia Commons, imagens de arquivo\n\n#JogueiNews #Brasileirão #Flamengo #Palmeiras",
+  "horario": "13:00",
+  "foco": [
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0.5
+   ]
+  ]
+ },
+ {
+  "saida": "posts/2026-11-19/07.png",
+  "modelo": "foto",
+  "titulo": "13º salário pode ser maior em 2026 com as novas regras do Imposto de Renda; 1ª parcela sai até 30 de novembro",
+  "fotos": [
+   "posts/2026-11-19/fotos/notas.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "fonte": "g1",
+  "alt": "Notas de real em imagem de arquivo.",
+  "legenda": "💰 O 13º salário pode ser maior para milhões de trabalhadores neste ano por causa das novas regras de isenção do Imposto de Renda, que passaram a isentar quem ganha até R$ 5 mil por mês.\n\n⏰ A primeira parcela deve ser paga até 30 de novembro. A segunda, até 18 de dezembro, já que o prazo legal cai em um domingo.\n\n🔹 A diferença deve aparecer principalmente na segunda parcela, quando são aplicados os descontos de INSS e IR. Em caso de atraso, o trabalhador deve cobrar a empresa por escrito.\n\nFonte: g1\n📷 Foto: Marcello Casal Jr e Rafa Neddermeyer/Agência Brasil (imagem de arquivo)\n\n#JogueiNews #13Salário #ImpostoDeRenda #Economia",
+  "horario": "14:00"
+ },
+ {
+  "saida": "posts/2026-11-19/08.png",
+  "modelo": "duplo",
+  "titulo": "Pierce Brosnan dá boas-vindas a Robert Pattinson como novo James Bond: \"Você vai ser magnífico\"",
+  "fotos": [
+   "posts/2026-11-19/fotos/brosnan.jpg",
+   "posts/2026-11-19/fotos/pattinson.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.3
+   ],
+   [
+    0.5,
+    0.3
+   ]
+  ],
+  "fonte": "UOL",
+  "alt": "Montagem com fotos de arquivo dos atores Pierce Brosnan e Robert Pattinson.",
+  "legenda": "🎬 O ator Pierce Brosnan, que interpretou James Bond em quatro filmes entre 1995 e 2002, elogiou em uma publicação no Instagram a escolha de Robert Pattinson como o novo 007.\n\n🔹 \"Querido Robert, bem-vindo ao mundo de Bond. Você vai ser magnífico\", escreveu, lembrando que os dois trabalharam juntos em \"Lembranças\", de 2010.\n\n📍 Pattinson foi anunciado na segunda-feira (16) como o próximo Bond. O novo filme da Amazon MGM terá direção de Denis Villeneuve.\n\nFonte: UOL\n📷 Fotos: Jay Godwin (domínio público) e Elena Ternovaja (CC BY-SA 3.0), via Wikimedia Commons, imagens de arquivo\n\n#JogueiNews #JamesBond #RobertPattinson #Cinema",
+  "horario": "15:00"
+ },
+ {
+  "saida": "posts/2026-11-19/09.png",
+  "modelo": "foto",
+  "titulo": "Desemprego de longa duração cai a 971 mil pessoas, o menor nível desde 2012, aponta IBGE",
+  "fotos": [
+   "posts/2026-11-19/fotos/carteira.jpg"
+  ],
+  "foco": [
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "fonte": "Agência Brasil",
+  "alt": "Carteira de trabalho digital exibida na tela de um celular, em imagem de arquivo.",
+  "legenda": "📊 O número de pessoas que procuram emprego há dois anos ou mais caiu para 971 mil no terceiro trimestre de 2026, o menor da série histórica do IBGE, iniciada em 2012. Foi a primeira vez que o grupo ficou abaixo de 1 milhão.\n\n🔹 O dado, da Pnad Contínua, divulgada na quarta-feira (18), representa queda de 17,6% em relação ao mesmo período de 2025 e de 8% sobre o segundo trimestre.\n\n📍 Somando quem busca trabalho há pelo menos um ano, são 1,56 milhão de pessoas, também o menor número desde 2012.\n\nFonte: Agência Brasil\n📷 Foto: Marcelo Camargo/Agência Brasil (imagem de arquivo)\n\n#JogueiNews #Desemprego #IBGE #Economia #Trabalho",
+  "horario": "16:00"
+ },
+ {
+  "saida": "posts/2026-11-19/10.png",
+  "modelo": "duplo",
+  "titulo": "Corinthians goleia o Botafogo por 4 a 0, com hat-trick de Kaio César, e deixa a zona de rebaixamento do Brasileirão",
+  "fotos": [
+   "posts/2026-11-19/fotos/arena1.jpg",
+   "posts/2026-11-19/fotos/arena2.jpg"
+  ],
+  "fonte": "UOL",
+  "alt": "Montagem com fotos ilustrativas de estádios de futebol, em imagens de arquivo.",
+  "legenda": "⚽ O Corinthians goleou o Botafogo por 4 a 0 na Neo Química Arena, na quarta-feira (18). Kaio César fez três gols, e o outro foi contra, de Arthur Chaves, após chute de Memphis.\n\n📊 Com 40 pontos, o time paulista subiu para a 15ª colocação e saiu do Z4. O Inter, que joga nesta quinta (19) contra o Vasco, é o primeiro time na zona, com 38 pontos. O Botafogo tem 42 e é o 12º.\n\n⏰ O Corinthians visita o Atlético-MG na quarta-feira (25), às 20h.\n\nFonte: UOL\n📷 Fotos: Jorge Morales Piderit (CC0) e Leonardo Lourenço/Portal da Copa (CC BY-SA 3.0), via Wikimedia Commons, imagens ilustrativas de estádio\n\n#JogueiNews #Corinthians #Botafogo #Brasileirão",
+  "horario": "17:00"
+ }
+]
