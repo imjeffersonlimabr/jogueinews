@@ -1,0 +1,172 @@
+[
+  {
+    "saida": "posts/2026-11-24/01.png",
+    "modelo": "foto",
+    "titulo": "Câmara aprova texto-base do ajuste fiscal por 353 votos a 128; destaques ainda serão analisados",
+    "fotos": [
+      "posts/2026-11-24/fotos/camara.jpg"
+    ],
+    "legenda": "🔹 A Câmara dos Deputados aprovou na noite desta segunda-feira (23) o texto-base do projeto de lei complementar que prevê ajuste fiscal em 2027. Foram 353 votos a favor, 128 contra e 5 abstenções.\n\n📊 O texto prevê redução de despesas para chegar a um superávit primário de cerca de R$ 18,7 bilhões no ano que vem. A economia estimada fica entre R$ 45,1 bilhões e R$ 56,1 bilhões.\n\n⏰ Os destaques, que sugerem mudanças em pontos específicos, ainda serão discutidos. O Senado já havia aprovado o texto na quarta-feira (18).\n\nFonte: Agência Brasil\n📷 Foto: Lula Marques/Agência Brasil\n\n#AjusteFiscal #Câmara #Economia #JogueiNews",
+    "alt": "Plenário da Câmara dos Deputados durante a sessão que votou o projeto de ajuste fiscal do governo.",
+    "horario": "08:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.45
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/02.png",
+    "modelo": "foto",
+    "titulo": "Fazenda reduz previsão de crescimento do PIB de 2027 para 1,8% e eleva inflação para 4,5%",
+    "fotos": [
+      "posts/2026-11-24/fotos/fazenda.jpg"
+    ],
+    "legenda": "📊 O Ministério da Fazenda cortou a projeção de crescimento do PIB em 2027 de 2,3% para 1,8% e elevou a estimativa de inflação (IPCA) de 3,8% para 4,5%, o limite superior da meta. Os números constam do Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23).\n\n🔹 Para 2026, a previsão de crescimento caiu de 2% para 1,9%, e a de inflação subiu de 4,9% para 5,3%.\n\n⏰ O governo atribui a desaceleração principalmente aos juros elevados e ao custo do crédito, que restringem consumo e investimentos.\n\nFonte: Agência Brasil\n📷 Foto: Rafa Neddermeyer/Agência Brasil\n\n#PIB #Inflação #Economia #JogueiNews",
+    "alt": "Fachada do prédio do Ministério da Fazenda, em Brasília.",
+    "horario": "09:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/03.png",
+    "modelo": "duplo",
+    "titulo": "CVM suspende registro do BRB, que está há mais de 12 meses sem divulgar balanço",
+    "fotos": [
+      "posts/2026-11-24/fotos/brb1.jpg",
+      "posts/2026-11-24/fotos/brb2.jpg"
+    ],
+    "legenda": "🔹 A Comissão de Valores Mobiliários (CVM) suspendeu nesta segunda-feira (23) o registro de companhia aberta do Banco de Brasília (BRB) e de mais quatro empresas.\n\n📊 O motivo é o descumprimento, por mais de 12 meses, das obrigações de divulgação de informações ao mercado. O BRB está sem divulgar balanços desde agosto do ano passado.\n\n⏰ Com a suspensão, os valores mobiliários do banco não podem ser negociados em mercados regulamentados até que as pendências sejam regularizadas. O BRB afirmou que o banco segue funcionando.\n\nFonte: Agência Brasil\n📷 Foto: Joédson Alves/Agência Brasil\n\n#BRB #CVM #Economia #JogueiNews",
+    "alt": "Duas fotos da fachada do prédio do Banco de Brasília (BRB), em Brasília.",
+    "horario": "10:00",
+    "fonte": "Agência Brasil"
+  },
+  {
+    "saida": "posts/2026-11-24/04.png",
+    "modelo": "foto",
+    "titulo": "Governo publica portaria com regras da jornada 5x2: hora de trabalho passa a valer mais a partir de 16 de dezembro",
+    "fotos": [
+      "posts/2026-11-24/fotos/tomaz.jpg"
+    ],
+    "legenda": "🔹 O Ministério do Trabalho publicou nesta segunda-feira (23) portaria com regras complementares ao decreto que regulamentou a jornada 5x2, em vigor a partir de 16 de dezembro.\n\n📊 O limite semanal cai de 44 para 42 horas e, em dezembro de 2027, para 40 horas. Com o mesmo salário e menos horas, o valor da hora sobe: num salário de R$ 5,5 mil, passa de R$ 25 para R$ 26,19.\n\n⏰ Cada trabalhador terá direito a dois dias de descanso por semana, de 24 horas consecutivas cada.\n\nFonte: Agência Brasil\n📷 Foto: Tomaz Silva/Agência Brasil (imagem de arquivo)\n\n#Jornada5x2 #Trabalho #Brasil #JogueiNews",
+    "alt": "Rua comercial movimentada com pedestres e lojas, em imagem de arquivo.",
+    "horario": "11:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/05.png",
+    "modelo": "foto",
+    "titulo": "Moraes manda citar Flávio Bolsonaro por edital; senador tem 15 dias para se defender em ação por calúnia contra Lula",
+    "fotos": [
+      "posts/2026-11-24/fotos/flavio.jpg"
+    ],
+    "legenda": "🔹 O ministro Alexandre de Moraes, do STF, determinou nesta segunda-feira (23) que o senador Flávio Bolsonaro (PL-RJ) seja citado por edital para apresentar defesa no prazo de 15 dias.\n\n📍 O caso trata da acusação de calúnia contra o presidente Lula, por uma postagem feita pelo senador na rede X em 3 de janeiro deste ano. A Procuradoria-Geral da República denunciou o parlamentar na semana passada.\n\n⏰ Segundo a decisão, a citação por edital é válida quando o réu está em local incerto, inclusive no exterior. Se o prazo passar sem advogado constituído, Moraes poderá acionar a Defensoria Pública.\n\nFonte: Agência Brasil\n📷 Foto: Lula Marques/Agência Brasil (arquivo)\n\n#STF #FlávioBolsonaro #Política #JogueiNews",
+    "alt": "O senador Flávio Bolsonaro durante entrevista, em foto de arquivo.",
+    "horario": "12:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.4
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/06.png",
+    "modelo": "foto",
+    "titulo": "Petrobras aprova R$ 15,6 bilhões em dividendos extraordinários; pagamento será em 23 de dezembro",
+    "fotos": [
+      "posts/2026-11-24/fotos/petrobras.jpg"
+    ],
+    "legenda": "🔹 O Conselho de Administração da Petrobras aprovou nesta segunda-feira (23) o pagamento de R$ 15,6 bilhões em remuneração extraordinária aos acionistas, o equivalente a R$ 1,21 por ação ordinária e preferencial.\n\n📊 O valor será pago em parcela única, na forma de dividendos intercalares, com data-base em 7 de dezembro. As ações passam a ser negociadas sem direito ao pagamento a partir de 8 de dezembro.\n\n⏰ O pagamento está marcado para 23 de dezembro e sujeito à incidência de Imposto de Renda.\n\nFonte: Agência Brasil\n📷 Foto: Fernando Frazão/Agência Brasil\n\n#Petrobras #Dividendos #Economia #JogueiNews",
+    "alt": "Edifício-sede da Petrobras, no centro do Rio de Janeiro.",
+    "horario": "13:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/07.png",
+    "modelo": "foto",
+    "titulo": "Bolsonaro é diagnosticado com pneumonia e segue internado na UTI; quadro é estável, sem previsão de alta",
+    "fotos": [
+      "posts/2026-11-24/fotos/bolso.jpg"
+    ],
+    "legenda": "🔹 O ex-presidente Jair Bolsonaro foi diagnosticado com pneumonia broncoaspirativa bilateral e continuará internado na UTI do Hospital DF Star, em Brasília. Segundo o boletim, o quadro é estável.\n\n📍 Ele está internado desde sexta-feira (20). No domingo, apresentou distensão abdominal, dor e baixa saturação de oxigênio, e novos exames mostraram a infecção.\n\n⏰ Não há previsão de alta. O cardiologista Brasil Caiado disse que o quadro é de grau menor do que o de uma internação anterior, em março.\n\nFonte: Agência Brasil\n📷 Foto: Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)\n\n#Bolsonaro #Saúde #Brasil #JogueiNews",
+    "alt": "O ex-presidente Jair Bolsonaro deixa um hospital sob esquema de segurança, em foto de arquivo.",
+    "horario": "14:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.4
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/08.png",
+    "modelo": "foto",
+    "titulo": "Abin mapeia 31 organizações criminosas relevantes e 75 células estaduais; CV e TCP avançam",
+    "fotos": [
+      "posts/2026-11-24/fotos/abin.jpg"
+    ],
+    "legenda": "🔹 A Agência Brasileira de Inteligência (Abin) identificou 31 organizações criminosas relevantes e 75 células estaduais no levantamento \"Cenários do Crime Organizado no Brasil\", apresentado na segunda-feira (23) aos órgãos do Sistema Brasileiro de Inteligência.\n\n📊 O estudo aponta atuação relevante do PCC em 22 unidades da Federação, do Comando Vermelho em 19 e do Terceiro Comando Puro em 4.\n\n📍 O levantamento destaca a expansão do CV no Norte e no Nordeste e o crescimento do TCP como terceira via entre os principais grupos.\n\nFonte: Agência Brasil\n📷 Foto: Fernando Frazão/Agência Brasil (arquivo)\n\n#Abin #CrimeOrganizado #Segurança #JogueiNews",
+    "alt": "Operação policial em comunidade do Rio de Janeiro, em imagem de arquivo.",
+    "horario": "15:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/09.png",
+    "modelo": "foto",
+    "titulo": "EUA, México, Costa Rica e Jamaica serão sedes da Copa do Mundo Feminina de 2031, com 48 seleções",
+    "fotos": [
+      "posts/2026-11-24/fotos/taca.jpg"
+    ],
+    "legenda": "⚽ A FIFA nomeou nesta segunda-feira (23) Estados Unidos, México, Costa Rica e Jamaica como anfitriões da Copa do Mundo Feminina de 2031, a primeira com 48 seleções e quatro países-sede.\n\n📍 Para 2035, as sedes serão Inglaterra, Irlanda do Norte, Escócia e País de Gales.\n\n⏰ Antes disso, o Brasil recebe a edição de 2027, de 24 de junho a 25 de julho, com abertura e final no Maracanã. O sorteio dos grupos será em 11 de dezembro, às 13h30 (de Brasília).\n\nFonte: Agência Brasil\n📷 Foto: Fernando Frazão/Agência Brasil\n\n#CopaFeminina #FIFA #Futebol #JogueiNews",
+    "alt": "A taça da Copa do Mundo Feminina da FIFA exibida na sede da CBF, no Rio de Janeiro.",
+    "horario": "16:00",
+    "fonte": "Agência Brasil",
+    "foco": [
+      [
+        0.5,
+        0.45
+      ]
+    ]
+  },
+  {
+    "saida": "posts/2026-11-24/10.png",
+    "modelo": "duplo",
+    "titulo": "Anvisa manda recolher xampu anticaspa rotulado para crianças e aprova novo remédio contra câncer de mama",
+    "fotos": [
+      "posts/2026-11-24/fotos/anvisa.jpg",
+      "posts/2026-11-24/fotos/cancer.jpg"
+    ],
+    "legenda": "🔹 A Anvisa determinou o recolhimento do xampu em barra anticaspa DC Biocosméticos, rotulado para uso infantil, o que não é permitido. A resolução foi publicada nesta segunda-feira (23) no Diário Oficial da União e proíbe fabricação, distribuição, divulgação e uso de todos os lotes com indicação para crianças.\n\n📊 No mesmo dia, a agência aprovou o registro do Hertuzo (pertuzumabe), biossimilar do Perjeta, para câncer de mama inicial e metastático.\n\n⏰ A Agência Brasil procurou a fabricante do xampu e aguarda posicionamento.\n\nFonte: Agência Brasil\n📷 Foto: Marcelo Camargo/Agência Brasil e José Cruz/Agência Brasil (arquivo)\n\n#Anvisa #Saúde #Brasil #JogueiNews",
+    "alt": "À esquerda, fachada da sede da Anvisa; à direita, tela de computador com exame de mamografia.",
+    "horario": "17:00",
+    "fonte": "Agência Brasil"
+  }
+]
